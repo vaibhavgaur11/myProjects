@@ -120,17 +120,3 @@ Vaibhav Gaur
 
 GitHub: https://github.com/vaibhavgaur11
 
-yaml
-Copy code
-
-Save and close.
-
----
-
-## ✅ STEP 3: Commit README
-
-```bat
-git status
-git add README.md
-git commit -m "Add README with project overview and deployment plan"
-git push
