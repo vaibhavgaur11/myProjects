@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\EmployeeApi\\CRUD\\EmployeeA\\EmployeeA.csproj": {}
+    "E:\\github\\expense-tracker-dotnet\\EmployeeAPI\\EmployeeA\\EmployeeA.csproj": {}
   },
   "projects": {
-    "E:\\EmployeeApi\\CRUD\\EmployeeA\\EmployeeA.csproj": {
+    "E:\\github\\expense-tracker-dotnet\\EmployeeAPI\\EmployeeA\\EmployeeA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\EmployeeApi\\CRUD\\EmployeeA\\EmployeeA.csproj",
+        "projectUniqueName": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI\\EmployeeA\\EmployeeA.csproj",
         "projectName": "EmployeeA",
-        "projectPath": "E:\\EmployeeApi\\CRUD\\EmployeeA\\EmployeeA.csproj",
+        "projectPath": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI\\EmployeeA\\EmployeeA.csproj",
         "packagesPath": "C:\\Users\\vaibh\\.nuget\\packages\\",
-        "outputPath": "E:\\EmployeeApi\\CRUD\\EmployeeA\\obj\\",
+        "outputPath": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI\\EmployeeA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

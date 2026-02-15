@@ -54,6 +54,42 @@ namespace EmployeeA.Controllers
                 employee);
         }
 
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var employee = await context.Employees.FindAsync(id);
+
+            if (employee == null)
+                return NotFound();
+
+            context.Employees.Remove(employee);
+            await context.SaveChangesAsync();
+
+            return NoContent(); 
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, Employee employee)
+        {
+            if (id != employee.EmployeeId)
+                return BadRequest("Employee ID mismatch");
+
+            var existingEmployee = await context.Employees.FindAsync(id);
+
+            if (existingEmployee == null)
+                return NotFound();
+
+            // Update fields
+            existingEmployee.Name = employee.Name;
+            existingEmployee.Designation = employee.Designation;
+
+            await context.SaveChangesAsync();
+
+            return NoContent(); 
+        }
+
+
+
 
     }
 }
