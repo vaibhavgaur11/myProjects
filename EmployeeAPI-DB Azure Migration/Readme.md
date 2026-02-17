@@ -1,17 +1,4 @@
-﻿EmployeeAPI – Azure SQL Migration Project
-
-Table of Contents
-
-1.Project Overview 
-2.Tech Stack 
-3.Architecture 
-4.Local Setup 
-5.Azure Resource Creation 6.Database Migration Process 
-7.API Configuration 
-8.Update Testing via Swagger 
-9.Security Configuration 
-10.Screenshots (Proof of Deployment) 
-11.Cleanup
+﻿EmployeeAPI – Azure SQL Migration 
 
 1.  Project Overview
 
