@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI-DB Azure Migration\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{140C5653-85B5-4F82-A826-72E73617DE78}|EmployeeA.csproj|e:\\github\\expense-tracker-dotnet\\employeeapi-db azure migration\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{140C5653-85B5-4F82-A826-72E73617DE78}|EmployeeA.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{140C5653-85B5-4F82-A826-72E73617DE78}|EmployeeA.csproj|e:\\github\\expense-tracker-dotnet\\employeeapi-db azure migration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{140C5653-85B5-4F82-A826-72E73617DE78}|EmployeeA.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -34,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI-DB Azure Migration\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI-DB Azure Migration\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-17T18:13:28.356Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -46,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ApiKeyMiddleware.cs",
               "DocumentMoniker": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI-DB Azure Migration\\ApiKeyMiddleware.cs",
               "RelativeDocumentMoniker": "ApiKeyMiddleware.cs",
@@ -58,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI-DB Azure Migration\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -70,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI-DB Azure Migration\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CompanyDbContext.cs",
               "DocumentMoniker": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI-DB Azure Migration\\Models\\CompanyDbContext.cs",
               "RelativeDocumentMoniker": "Models\\CompanyDbContext.cs",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EmployeeA.csproj",
               "DocumentMoniker": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI-DB Azure Migration\\EmployeeA.csproj",
               "RelativeDocumentMoniker": "EmployeeA.csproj",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeAPIController.cs",
               "DocumentMoniker": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI-DB Azure Migration\\Controllers\\EmployeeAPIController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeAPIController.cs",
