@@ -141,12 +141,9 @@ Add the following:
 <img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/ab1c02d6-e770-452f-a891-24a607b345eb" />
 <img width="1918" height="980" alt="image" src="https://github.com/user-attachments/assets/ac3f1b3a-416b-48ee-ae6c-4e166fd7ff4e" />
 
-
-<img width="1405" height="906" alt="image" src="https://github.com/user-attachments/assets/0ac57903-4b44-4a6d-941a-8014ac440785" />
-<img width="1405" height="906" alt="image" src="https://github.com/user-attachments/assets/a6c46ccb-1484-4231-8065-caec2c33aea8" />
 <img width="1405" height="906" alt="image" src="https://github.com/user-attachments/assets/3e6bc258-7c4d-400e-af14-ac78f79148dd" />
 <img width="1057" height="911" alt="image" src="https://github.com/user-attachments/assets/a22917ec-5494-45f1-a1db-a6ee658d5a07" />
-<img width="1052" height="901" alt="image" src="https://github.com/user-attachments/assets/225a6763-c27f-4aa7-9845-beb83303ca4e" />
+
 
 
 11. Cleanup
