@@ -34,16 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -54,8 +46,7 @@
               "RelativeToolTip": "ApiKeyMiddleware.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T12:04:59.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T12:04:59.646Z"
             },
             {
               "$type": "Document",
@@ -77,7 +68,7 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "E:\\github\\expense-tracker-dotnet\\EmployeeAPI\\EmployeeA\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-14T21:29:59.724Z",
               "EditorCaption": ""
@@ -116,8 +107,15 @@
               "RelativeToolTip": "Controllers\\EmployeeAPIController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAwwEMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T21:15:27.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T21:15:27.706Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }
