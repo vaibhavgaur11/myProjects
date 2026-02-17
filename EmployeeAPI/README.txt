@@ -103,7 +103,7 @@ Hosting
 The API is deployed and tested on IIS.
 Successfully accessed from another machine over the local network.
 
-📌 Key Learnings
+ Key Learnings
 
 Implementing custom API Key authentication
 
@@ -115,7 +115,7 @@ IIS deployment and external access testing
 
 Understanding full request lifecycle
 
-🔮 Future Improvements
+Future Improvements
 
 JWT Authentication
 
@@ -129,6 +129,6 @@ Docker Deployment
 
 Azure Hosting
 
-📎 License
+ License
 
 This project is for learning and demonstration purposes.
