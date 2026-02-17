@@ -30,6 +30,8 @@ an API Key middleware.
 
 Local API → Azure SQL Database Authentication → SQL Authentication API
 Security → Custom API Key Middleware
+<img width="1742" height="536" alt="image" src="https://github.com/user-attachments/assets/22442694-f378-4a26-8940-9ce5f3b44183" />
+
 
 4.  Local Setup
 
