@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Create a Python function that generates ZPL code to print a simple shipping label with a company name, recipient address, and tracking number for a Zebra ZT230 printer on 4x6 inch labels",
+    "solution_criteria": "The solution should use correct ZPL commands (^XA, ^FO, ^FD, ^FS, ^XZ), specify appropriate label dimensions for 4x6 inch labels, include proper field positioning, and generate clean readable text without overlapping elements."
+  },
+  {
+    "task": "Write a regex pattern to extract the printer status from Zebra printer response strings that contain status information in the format 'STATUS: READY' or 'STATUS: ERROR - Paper Out' or 'STATUS: PAUSED'",
+    "solution_criteria": "The solution should accurately capture only the status portion after 'STATUS: ', handle both single-word statuses (READY, PAUSED) and multi-word error messages, and be case-insensitive while preserving the original case of the extracted status."
+  },
+  {
+    "task": "Create a JSON configuration object for a Zebra GX430t printer that defines print settings including darkness level, print speed, label dimensions, and media type for printing barcode labels",
+    "solution_criteria": "The solution should include valid printer-specific settings (darkness 0-30, speed 2-12 ips for GX430t), proper JSON structure with appropriate data types, label dimensions in dots or inches, and realistic media type options compatible with the GX430t model."
+  }
+]
